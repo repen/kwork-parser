@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+venv
+*.py[cod]
+*$py.class
+script/Log/*log
